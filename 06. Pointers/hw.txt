@@ -1,0 +1,5 @@
+HOMEWORK SETS
+
+Ques 1: Write a program in C to find the maximum number between two numbers using a pointer.
+Ques 2: Write a program in C to print the elements of an array in reverse order.
+Ques 3: Write a program in C to print all the letters in and English alphabet using a pointer.
