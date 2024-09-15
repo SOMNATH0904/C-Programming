@@ -1,0 +1,10 @@
+Ques 1: Write a program to read a string from a file & 
+        output to the user.
+
+Ques 2: Replace the data in file of Q(1) with the number
+        of vowels in the string.
+
+Ques 3: Format the information of 5 students (name, marks,
+        cgpa, course) in a table like structure in a file.
+
+        
